@@ -10,23 +10,23 @@ output: md_document
 
 <img style="float: right; padding-left: 7%; padding-bottom: 7%; padding-top: 5%;" src="/images/me2.png" width="330"/>
  
-I am an MRC Skills Development Research Fellow at the Department of Epidemiology and Biostatistics, part of the [MRC Centre for Environment and Health](https://www.environment-health.ac.uk/) at Imperial College London. My group is the [Environmental and Health Statistics group](https://sites.google.com/view/envstats/home) headed by [Prof Marta Blangiardo](https://www.imperial.ac.uk/people/m.blangiardo). 
+I am a Postdoctoral Research Associate at the Department of Epidemiology and Biostatistics, part of the [MRC Centre for Environment and Health](https://www.environment-health.ac.uk/) at Imperial College London. My group is the [Environmental and Health Statistics group](https://sites.google.com/view/envstats/home) headed by [Professor Marta Blangiardo](https://www.imperial.ac.uk/people/m.blangiardo). 
 
-Before that, Ι did my PhD in Biostatistics and Epidemiology at the [Institute of Social and Preventive Medicine](https://www.ispm.unibe.ch/) (ISPM) at the University of Bern in Switzerland in the [Environmental and Spatial Epidemiology group](https://www.ispm.unibe.ch/research/research_groups/environmental_and_spatial_epidemiology/index_eng.html) headed by [Dr Ben Spycher](https://www.ispm.unibe.ch/about_us/staff/spycher_ben/index_eng.html). Also, I obtained an MSc in Biostatistics at the University of Glasgow and BSc in Mathematics at the Aristotle University of Thessaloniki. 
+Before that, Ι did my PhD in Statistics at the [Department of Mathematical Sciences](https://www.bath.ac.uk/departments/department-of-mathematical-sciences/) at the University of Bath supervised by [Dr Theresa Smith](https://people.bath.ac.uk/trs35/). Also, I obtained an Mmath in in Mathematics at the University of Leicester.
 
 
-My current domain of research is on Bayesian spatiotemporal models using exact point data. I combine the aforementioned modelling framework with health economics to investigate the climate related respiratory disease burden in the England. This project is a collaboration with [Prof Gianluca Baio](http://www.statistica.it/gianluca/) at UCL, [Dr Cosetta Minelli](https://www.imperial.ac.uk/people/cosetta.minelli1) at Imperial College, [Dr Antonio Gasparrini](http://www.ag-myresearch.com/) at LSHTP, [Dr Ana Vicedo-Cabrera](https://www.ispm.unibe.ch/about_us/staff/vicedo_cabrera_ana_maria/index_eng.html) at ISPM University of Bern, [Prof Dominic Schuhmacher](http://www.dominic.schuhmacher.name/) at University of Gottingen, [Dr Samir Bhatt](https://www.imperial.ac.uk/people/s.bhatt) at Imperial College and [Dr Joan Ballester](http://www.joanballester.eu/contact.html) at ISGlobal.
+My current domain of research is on Bayesian spatiotemporal models using survey data. I combine the aforementioned modelling framework with mental health 
+outcomes to investigate the effect of govermenent policy in the England. This is a Wellcome Trust funded project in collaboration with [Professor Gianluca Baio](http://www.statistica.it/gianluca/) and [Professor James Kirkbride](https://www.ucl.ac.uk/psychiatry/people/james-kirkbride) at UCL and [Dr Sara Geneletti](https://www.lse.ac.uk/statistics/people/sara-geneletti) at LSE.
 
 <br>
 
 ##### Education
 
-* **2019** -- PhD in Biostatistics and Epidemiology, University of Bern
-* **2015** -- Master in Biostatistics, University of Glasgow
-* **2012** -- Bachelor in Mathematics, Aristotle University of Thessaloniki
+* **2022** -- PhD in Statistics, University of Bath
+* **2018** -- Mmath in Mathematics, University of Leicester
 
 ##### Research visits
 
-* **2018** -- King Abdullah University of Science and Technology to [Prof Haavard Rue](https://www.kaust.edu.sa/en/study/faculty/haavard-rue) 
-* **2017** -- University of Gottingen to [Prof Dominic Schuhmacher](http://www.dominic.schuhmacher.name/)
+* **2023** -- Norwegian University of Science and Technology to [Professor Andrea Riebler](https://folk.ntnu.no/andrerie/) 
+* **2021** -- University of Washington to [Professor Jon Wakefiled](https://faculty.washington.edu/jonno/)
 
