@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Garyfallos Konstantinoudis</title>
+    <link>/page/</link>
+    <description>Recent content in Pages on Garyfallos Konstantinoudis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 28 Sep 2017 08:00:00 +0600</lastBuildDate><atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Typography</title>
+      <link>/typography/</link>
+      <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
+      
+      <guid>/typography/</guid>
+      <description>Here is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Heading 2 Another one. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Heading 4  First item Second item   Nested unordered item  Third item Nested ordered item 1 Nested ordered item 2  Heading 5 Where are the quotes!</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/</guid>
+      <description>I am an MRC Skills Development Research Fellow at the Department of Epidemiology and Biostatistics, part of the MRC Centre for Environment and Health at Imperial College London. My group is the Environmental and Health Statistics group headed by Prof Marta Blangiardo.
+Prior to that, I did my PhD in Biostatistics and Epidemiology at the Institute of Social and Preventive Medicine (ISPM) at the University of Bern in Switzerland in the Environmental and Spatial Epidemiology group headed by Dr Ben Spycher.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Direct and indirect effects of the COVID-19 pandemic on mortality in Switzerland Assessing the direct (deaths followed a SARS-CoV-2 infection) or indirect (deaths caused or avoided due to our response to tackle the virus) impact of the COVID-19 pandemic on population-level mortality, is challenging but central to gauging the appropriateness of COVID-19 control measures. We Bayesian modelling and found that COVID-19 was directly responsible for an estimated 18,000 deaths during the study period, during which only around 13,000 laboratory-confirmed COVID-19-related deaths were reported.</description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>/code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/code/</guid>
+      <description>I have written the following R-package:
+GeoSwiss Tools for geocoding address in Switzerland. The package takes addresses as strings and uses two different data bases, google maps and Swiss topo (Swiss Federal Office of Topography) Switzerland&amp;rsquo;s national mapping agency and return the corresponding geocodes. The geocodes are directly transformed into the Swiss grid for coordinates and also come with a precision metric that gives a qualitative assessment of the precision of the geocode.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description>NIMBLE tutorials All the code and datasets used for the tutorial can be also found here.
+ Conditional Autoregressive models with NIMBLE.  In this tutorial I use the famours Scottish lip cancer dataset and provide 4 different approaches for disease mapping. I start with a basic global smoothing by incorporating unstructured random effect, then I show how to fit an ICAR, I continue showwing a BYM model and finally I show how to fit the BYM2 in NIMBLE.</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/</guid>
+      <description>Hereby you can find my slides for selected talks.
+[2022]
+ Direct and indirect effects of the COVID-19 pandemic on mortality in Switzerland. GEOMED, Irvine California. (Invited speaker)  [2021]
+  Warm temperatures and COPD hospitalisations in England: A nationwide case-crossover study during 2007-2018. University of Illinois at Urbana-Champaign. (Invited speaker)
+  Regional excess mortality during the 2020 COVID-19 pandemic: a study of five European countries. Institute for social and preventive medicine, University of Bern.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>[2022]
+Riou J, Hauser A, Fesser A, Althaus CL, Egger M, Konstantinoudis G. Direct and indirect effects of the COVID-19 pandemic on mortality in Switzerland: A population-based study. medRxiv 2022. https://doi.org/10.1101/2022.08.05.22278458.
+Bucyibaruta G, Blangiardo M, Konstantinoudis G. Community-level characteristics of COVID-19 vaccine hesitancy in England: A nationwide cross-sectional study. European Journal of Epidemiology 2022. https://doi.org/10.1007/s10654-022-00905-1.
+Konstantinoudis G, Minelli C, Vicedo-Cabrera AM, Ballester J, Gasparrini A, Blangiardo M. Ambient heat exposure and COPD hospitalisations in England: a nationwide case-crossover study during 2007–2018.</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
