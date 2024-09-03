@@ -1,7 +1,7 @@
 ---
 title: "Penalized smoothing splines resolve the curvature identifiability problem in age-period-cohort models with unequal intervals"
 collection: publications
-category: Published
+category: manuscripts
 permalink: /publications/2023-03-12-penalized
 excerpt: "Here we use penalized smoothing splines to resolve a identifcation problem that arises in age-period-cohort models when data comes aggregated in non-uniform widths."
 date: 2023-03-12

@@ -1,11 +1,11 @@
 ---
 title: "Smoothing for age-period-cohort models: a comparison between splines and random process"
 collection: publications
-category: Pre-print
+category: preprint
 permalink: /publications/2023-12-15-smoothing
 excerpt: "Here we use an age-period-cohort model extended to account for a complex survey design to model subnational  U5MRs in Kenya."
 date: 2023-12-15
-venue: "Spatial and Spatio-temporal Epidemiology"
+venue: "ArXiv"
 paperurl: "https://arxiv.org/abs/2309.02093"
 citation: "<b>Gascoigne, Connor</b> & Smith, Theresa & Riebler, Andrea. (2023). &quot;Smoothing for age-period-cohort models: a comparison between splines and random process.&quot; <i>arXiv:2312.09698</i>."
 ---

@@ -1,11 +1,11 @@
 ---
 title: "Estimating Subnational Under-Five Mortality Rates Using a Spatio-Temporal Age-Period-Cohort Model"
 collection: publications
-category: Pre-print
+category: preprint
 permalink: /publications/2023-09-05-estimating
 excerpt: "Here we use an age-period-cohort model extended to account for a complex survey design to model subnational  U5MRs in Kenya."
 date: 2023-09-05
-venue: "Spatial and Spatio-temporal Epidemiology"
+venue: "ArXiv"
 paperurl: "https://arxiv.org/abs/2309.02093"
 citation: "<b>Gascoigne, Connor</b> & Smith, Theresa & Paige, John & Wakefiled, Jon. (2023). &quot;Estimating Subnational Under-Five Mortality Rates Using a Spatio-Temporal Age-Period-Cohort Model.&quot; <i>arXiv:2309.02093</i>."
 ---
