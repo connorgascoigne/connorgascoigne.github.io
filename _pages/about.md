@@ -11,22 +11,19 @@ I am an Research Associate at [MRC Center for Environment and Health](https://en
 
 I have a PhD in Statistics awarded from the [Mathematical Sciences department](https://www.bath.ac.uk/departments/department-of-mathematical-sciences/) at the University of Bath. My PhD was titled "[Modelling of spatio-temporal disease rates using age-period-cohort methods](../files/PhDThesis_Gascoigne.pdf)" and I was supervised by Doctor [Theresa Smith](https://people.bath.ac.uk/trs35/). During my PhD, I developed subnational under-five and neonatal mortality estimates for low-and-middle income countries and contributed to the [UN Inter-agency Group for Child Mortality Estimates(UNIGME) Estimates](https://childmortality.org/wp-content/uploads/2023/10/UN-IGME_Subnational_U5MR_and_NMR_2000-2021-1.pdf). Prior to my PhD, I was completed an MMath at the University of Leicester.
 
-Employment
-====
+### Employment
 
 -   **2022 -- Present** -- Research Associate, Imperial College, London
 -   **2022 -- 2022** -- Research Assistant, Imperial College London
 -   **2018 -- 2022** -- Graduate Teaching Assistant, University of Bath
 -   **2016 -- 2018** -- Teaching Assistant, University of Leicester
 
-Education
-====
+### Education
 
 -   **2022** -- PhD in Statistics, University of Bath
 -   **2018** -- MMath in Mathematics, University of Leicester
 
-Research Visits
-====
+### Research Visits
 
 -   **2022** -- Norwegian University of Science and Technology to [Professor Andrea Riebler](https://folk.ntnu.no/andrerie/)
 -   **2021** -- University of Washington to [Professor Jon Wakefield](https://faculty.washington.edu/jonno/)
