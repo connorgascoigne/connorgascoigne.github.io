@@ -6,9 +6,9 @@ permalink: /publication/2023-12-15-smoothing
 excerpt: 'Here we use an age-period-cohort model extended to account for a complex survey design to model subnational  U5MRs in Kenya.'
 date: 2023-12-15
 venue: 'Spatial and Spatio-temporal Epidemiology'
-# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+<!-- slidesurl: 'http://academicpages.github.io/files/slides1.pdf' -->
 paperurl: 'https://arxiv.org/abs/2309.02093'
-citation: '<strong>Gascoigne, Connor</strong> & Smith, Theresa & Riebler, Andrea. (2023). &quot;Smoothing for age-period-cohort models: a comparison between splines and random process.&quot; <i>ArXiv</i>.'
+citation: '<b>Gascoigne, Connor</b> & Smith, Theresa & Riebler, Andrea. (2023). &quot;Smoothing for age-period-cohort models: a comparison between splines and random process.&quot; <i>ArXiv</i>.'
 ---
   
 ## Abstract
