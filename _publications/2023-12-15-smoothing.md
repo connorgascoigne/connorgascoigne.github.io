@@ -8,7 +8,7 @@ date: 2023-12-15
 venue: 'Spatial and Spatio-temporal Epidemiology'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/abs/2309.02093'
-citation: '<b>Gascoigne, Connor</b> & Smith, Theresa & Riebler, Andrea. (2023). &quot;Smoothing for age-period-cohort models: a comparison between splines and random process.&quot; <i>ArXiv</i>.'
+citation: '<strong>Gascoigne, Connor</strong> & Smith, Theresa & Riebler, Andrea. (2023). &quot;Smoothing for age-period-cohort models: a comparison between splines and random process.&quot; <i>ArXiv</i>.'
 ---
   
 ## Abstract
