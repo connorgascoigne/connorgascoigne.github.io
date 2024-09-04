@@ -97,6 +97,13 @@ supervision_category:
     title: 'Masters Students'
   phd:
     title: 'PhD Students'
+    
+# Talks Category - The following the list of talk categories and their headings
+talks_category:
+  conference:
+    title: 'Conference Talks'
+  seminar:
+    title: 'Seminar Talks'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
