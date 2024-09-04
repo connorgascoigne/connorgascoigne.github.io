@@ -1,6 +1,6 @@
 ---
 title: "Spatio-temporal trends in antidepressant prescribing in England"
-collection: supervision
+collection: teaching
 category: masters
 type: "MSc"
 permalink: /supervision/imperial-supervision-2023
