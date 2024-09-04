@@ -1,11 +1,12 @@
 ---
 title: "Spatio-temporal trends in antidepressant prescribing in England"
 collection: supervision
-type: "Masters Dissertation"
+category: masters
+type: "MSc"
 permalink: /supervision/imperial-supervision-2023
+excerpt: ""
 venue: "Imperial College, School of Public Health"
 date: 2023-01-01
-location: "London, England"
 ---
 
 I was the lead supervisor of an MSc in Health Data Analytics and Machine Learning student summer dissertation in 2022/23 academic year with Prof. Marta Blangiardo as a co-supervisor. The dissertation was titled _Spatio-temporal trends in antidepressant prescribing in England_. The student received a *distinction* for their dissertation. The dissertation proposal is below. 

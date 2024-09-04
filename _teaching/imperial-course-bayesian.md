@@ -1,11 +1,12 @@
 ---
 title: "Bayesian Spatio-temporal Modelling"
 collection: teaching
-type: "Masters Course"
+category: department
+type: "MSc Course"
 permalink: /teaching/imperial-course-bayesian
+excerpt: ""
 venue: "Imperial College, School of Public Health"
 date: 2023-01-01
-location: "London, England"
 ---
 
 I have been helping organise and run the [Bayesian Spatio-temporal modelling course](https://martablangiardo.github.io/) at Imperial College, London, with Prof. Marta Blangiargo (course lead) and Dr. Monica Pirani. The course is run as part of Imperial College's MSc in both Epidemiology and Health Data Analytics and has be rebranded a few times (i.e., Bayesian Reasoning and Methods for spatio-temporal data and Advance Analytics) with my main outcomes of the course being the same. 
