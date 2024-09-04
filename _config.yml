@@ -83,6 +83,15 @@ publication_category:
     title: 'Preprints'    
   conferences:
     title: 'Conference Papers'
+    
+# teaching Category - The following the list of publication categories and their headings
+teaching_category:
+  department:
+    title: 'Departmental Courses'
+  short:
+    title: 'Short Course'
+  supervision:
+    title: 'Supervision'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
