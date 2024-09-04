@@ -4,7 +4,7 @@ collection: teaching
 type: "Masters Course"
 permalink: /teaching/imperial-course-bayesian
 venue: "Imperial College, School of Public Health"
-date: 2023
+date: 2023-01-01
 location: "London, England"
 ---
 

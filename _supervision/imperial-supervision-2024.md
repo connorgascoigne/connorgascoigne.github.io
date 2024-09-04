@@ -4,7 +4,7 @@ collection: supervision
 type: "Masters Dissertation"
 permalink: /supervision/imperial-supervision-2024
 venue: "Imperial College, School of Public Health"
-date: 2024
+date: 2024-01-01
 location: "London, England"
 ---
 
