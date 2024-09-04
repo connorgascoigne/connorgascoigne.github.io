@@ -1,8 +1,8 @@
 ---
 title: "Bayesian Spatio-temporal Modelling"
-collection: supervision
+collection: teaching
 type: "Masters Course"
-permalink: /supervision/imperial-course-bayesian
+permalink: /teaching/imperial-course-bayesian
 venue: "Imperial College, School of Public Health"
 date: 2023
 location: "London, England"
