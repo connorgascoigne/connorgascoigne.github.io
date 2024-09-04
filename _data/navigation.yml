@@ -14,8 +14,11 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching & Supervision"
+  - title: "Teaching"
     url: /teaching/    
+
+  - title: "Supervision"
+    url: /supervision/    
     
   # - title: "Portfolio"
   #   url: /portfolio/

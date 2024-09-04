@@ -1,7 +1,6 @@
 ---
 title: "The Spatial Variation of the Effect of Heat on Mortality in Switzerland"
 collection: teaching
-category: supervision
 type: "Masters Dissertation"
 permalink: /teaching/imperial-supervision-2024
 venue: "Imperial College, School of Public Health"

@@ -83,15 +83,6 @@ publication_category:
     title: 'Preprints'    
   conferences:
     title: 'Conference Papers'
-    
-# Teaching Category - The following the list of teaching categories and their headings
-teaching_category:
-  department:
-    title: 'Departmental Courses'
-  short:
-    title: 'Short Course'
-  supervision:
-    title: 'Supervision'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -228,6 +219,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  supervision:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -269,6 +263,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _supervision
+  - scope:
+      path: ""
+      type: supervision
     values:
       layout: single
       author_profile: true

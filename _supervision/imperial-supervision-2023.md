@@ -1,7 +1,6 @@
 ---
 title: "Spatio-temporal trends in antidepressant prescribing in England"
 collection: teaching
-category: supervision
 type: "Masters Dissertation"
 permalink: /teaching/imperial-supervision-2023
 venue: "Imperial College, School of Public Health"

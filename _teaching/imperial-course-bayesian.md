@@ -1,7 +1,6 @@
 ---
 title: "Bayesian Spatio-temporal Modelling"
 collection: teaching
-category: department
 type: "Masters Course"
 permalink: /teaching/imperial-course-bayesian
 venue: "Imperial College, School of Public Health"
