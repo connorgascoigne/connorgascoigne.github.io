@@ -1,14 +1,11 @@
 ---
-layout: archive
-title: "Research"
 permalink: /research/
+title: "Research"
+layout: archive
   author_profile: true
-editor_options: 
-  markdown: 
-    wrap: 72
+redirect_from:
+  - /research.html
 ---
-
-{% include base_path %}
 
 ------------------------------------------------------------------------
 
