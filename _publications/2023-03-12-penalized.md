@@ -6,7 +6,7 @@ permalink: /publications/2023-03-12-penalized
 excerpt: "Here we use penalized smoothing splines to resolve a identifcation problem that arises in age-period-cohort models when data comes aggregated in non-uniform widths."
 date: 2023-03-12
 venue: "Statistics in Medicine"
-paperurl: "https://onlinelibrary.wiley.com/doi/full/10.1002/sim.9703"
+paperurl: "https://doi.org/10.1002/sim.9703"
 citation: "<b>Gascoigne, Connor</b> & Smith, Theresa. (2023). &quot;Penalized smoothing splines resolve the curvature identifiability problem in age-period-cohort models with unequal intervals.&quot; <i>Statistic in Medicine</i>. 42(12)."
 ---
 
