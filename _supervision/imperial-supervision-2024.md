@@ -23,9 +23,9 @@ Exposure to warm and cold temperatures are established risk factors for human he
 
 The goal of this project is to use available data in Switzerland during 2010-2022 and estimate the number of excess mortalities attributed to warm and cold temperatures accounting for:
 
-a.  Differences in age-sex vulnerabilities
+a.  Differences in age-sex vulnerabilities.
 
-b.  Temporal adaptation to temperatures
+b.  Temporal adaptation to temperatures.
 
 #### Proposed methods
 
